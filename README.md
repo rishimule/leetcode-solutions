@@ -17,22 +17,6 @@ To get started with the solutions, simply clone this repository to your local ma
 git clone https://github.com/rishimule/leetcode-solutions.git
 ```
 
-## Problem Categories
-
-The problems are organized into the following categories:
-
-- **Easy**  <!-- Category for easy problems -->
-  - Problem 1: [Two Sum](https://leetcode.com/problems/two-sum/)  <!-- Example of an easy problem -->
-  - Problem 2: [Reverse String](https://leetcode.com/problems/reverse-string/)  <!-- Another example of an easy problem -->
-
-- **Medium**  <!-- Category for medium problems -->
-  - Problem 1: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  <!-- Example of a medium problem -->
-  - Problem 2: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  <!-- Another example of a medium problem -->
-
-- **Hard**  <!-- Category for hard problems -->
-  - Problem 1: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  <!-- Example of a hard problem -->
-  - Problem 2: [N-Queens](https://leetcode.com/problems/n-queens/)  <!-- Another example of a hard problem -->
-
 ## Solution Format
 
 Each solution is organized in a separate file named after the problem title, following this format:
@@ -43,40 +27,44 @@ Each solution is organized in a separate file named after the problem title, fol
 
 ### Example Structure
 ```
-/Easy  <!-- Directory for easy problems -->
-  ├── Two_Sum.py  <!-- Example solution file for Two Sum problem in Python -->
-  ├── Reverse_String.py  <!-- Example solution file for Reverse String problem in Python -->
-/Medium  <!-- Directory for medium problems -->
-  ├── Add_Two_Numbers.java  <!-- Example solution file for Add Two Numbers problem in Java -->
-  ├── Longest_Substring_Without_Repeating_Characters.cpp  <!-- Example solution file for Longest Substring problem in C++ -->
-/Hard  <!-- Directory for hard problems -->
-  ├── Median_of_Two_Sorted_Arrays.py  <!-- Example solution file for Median problem in Python -->
-  ├── N-Queens.java  <!-- Example solution file for N-Queens problem in Java -->
+/2191-sort-the-jumbled-numbers
+  ├── 2191-sort-the-jumbled-numbers.py  <!-- Example solution file for Sort the Jumbled Numbers problem in Python -->
+  ├── README.md  <!-- Problem Description -->
 ```
 
 ## Example Problem
 
-### Problem: Two Sum
-- **Link**: [Two Sum](https://leetcode.com/problems/two-sum/)  <!-- Link to the problem -->
-- **Description**: Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.  <!-- Description of the problem -->
+### Problem: Sort the Jumbled Numbers problem in Python
+- **Link**: [Sort the Jumbled Numbers problem in Python](https://leetcode.com/problems/sort-the-jumbled-numbers/)  <!-- Link to the problem -->
+- **Description**: You are given a 0-indexed integer array mapping which represents the mapping rule of a shuffled decimal system. mapping[i] = j means digit i should be mapped to digit j in this system. The mapped value of an integer is the new integer obtained by replacing each occurrence of digit i in the integer with mapping[i] for all 0 <= i <= 9. You are also given another integer array nums. Return the array nums sorted in non-decreasing order based on the mapped values of its elements. <!-- Description of the problem -->
 
 #### Solution (Python)
 ```python
-def two_sum(nums, target):
-    num_map = {}  # Dictionary to store the index of the numbers
-    for i, num in enumerate(nums):
-        complement = target - num  # Calculate the complement
-        if complement in num_map:  # Check if the complement exists
-            return [num_map[complement], i]  # Return the indices if found
-        num_map[num] = i  # Store the index of the number
+class Solution:
+    def sortJumbled(self, mapping: List[int], nums: List[int]) -> List[int]:
+        def translate_integer(num: int) -> int:
+            digits: list[str] = list(str(num))
+            for i in range(len(digits)):
+                digits[i] = str(mapping[int(digits[i])])
+            return int("".join(digits))
+
+        number_mapping: dict[int, int] = {}
+        for num in nums:
+            number_mapping[num] = translate_integer(num)
+        nums.sort(key=lambda val: number_mapping[val])
+
+        return nums
 ```
 
 #### Usage
 ```python
-nums = [2, 7, 11, 15]  # Example input
-target = 9  # Example target
-result = two_sum(nums, target)  # Call the function
-print(result)  # Output: [0, 1]  <!-- Expected output -->
+mapping = [8,9,4,0,2,1,3,5,7,6]
+nums = [991,338,38]
+
+s = Solution()
+output = s.sortJumbled(mapping, nums)
+
+print(output)  # Output: [338, 38, 991]  <!-- Expected output -->
 ```
 
 ## Contributing
