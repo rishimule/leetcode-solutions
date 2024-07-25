@@ -30,10 +30,7 @@ class Solution:
                 arr[ai] = rightArr[ri]
                 ri += 1
                 ai += 1
-            
-            
-            
-        
+
         def merge_sort(arr:List, l:int, r:int) -> List:
             if l == r:
                 return arr
