@@ -5,8 +5,8 @@ class Solution:
         r= n-1
         
         while l<r:
-            if s[l].isalnum() == True:
-                if s[r].isalnum() == True:
+            if s[l].isalnum():
+                if s[r].isalnum():
                     if s[l].lower() != s[r].lower():
                         return False
                     else:
