@@ -6,7 +6,7 @@ class Solution:
         n = len(numbers)
         
         l = 0
-        r= n-1
+        r = n-1
         
         while l<r:
             csum = numbers[l] + numbers[r] 
