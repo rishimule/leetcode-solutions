@@ -5,7 +5,6 @@ class Node:
         self.val = val
         self.neighbors = neighbors if neighbors is not None else []
 """
-__import__("atexit").register(lambda: open('display_runtime.txt','w').write('0'))
 
 from typing import Optional
 class Solution:
