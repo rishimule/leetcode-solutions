@@ -122,6 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishimule/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/rishimule/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 ## Greedy
@@ -151,6 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rishimule/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
