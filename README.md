@@ -105,6 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0136-single-number](https://github.com/rishimule/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +169,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
