@@ -16,7 +16,9 @@ class MinStack:
             #update min
             if self.curMin == len(self.stack)-1:
                 self.curMin = self.prevMin[self.curMin]
+                del self.prevMin[len(self.stack)-1]
             self.stack.pop()
+            
         
     def top(self) -> int:
         return self.stack[-1] if self.stack else None
