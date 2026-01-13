@@ -170,6 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/rishimule/leetcode-solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rishimule/leetcode-solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
