@@ -1,6 +1,10 @@
 class MinStack:
 
     def __init__(self):
+        # keep track of idx of the minimum in a stack
+        # when a new minimum is added to the stack, map the idx of the previous
+        # min to its idx (hint: since its a stack, the prev min idx 
+        # will always be smaller)
         self.stack = []
         self.curMin = -1
         self.prevMin = {}
