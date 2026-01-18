@@ -84,6 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0011-container-with-most-water](https://github.com/rishimule/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/rishimule/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## String
@@ -108,6 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Depth-First Search
@@ -155,6 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
