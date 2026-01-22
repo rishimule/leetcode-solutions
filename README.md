@@ -144,6 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishimule/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Greedy
 |  |
@@ -173,6 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0007-reverse-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishimule/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -243,4 +246,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
