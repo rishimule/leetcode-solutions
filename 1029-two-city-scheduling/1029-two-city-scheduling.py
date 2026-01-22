@@ -6,12 +6,15 @@ class Solution:
 
         totalCost = 0
         
-        # Get Total cost for CityA
-        for i in range(n):
-            totalCost += costs[i][0]
+        # # Get Total cost for CityA
+        # for i in range(n):
+        #     totalCost += costs[i][0]
 
-        # Get Total cost for CityB
-        for i in range(n, 2*n ):
-            totalCost += costs[i][1]
+        # # Get Total cost for CityB
+        # for i in range(n, 2*n ):
+        #     totalCost += costs[i][1]
+        
+        totalCost = sum(people[0] for people in costs[:n]) + \
+                    sum(people[1] for people in costs[n:])
         
         return totalCost
