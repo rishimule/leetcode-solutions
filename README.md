@@ -92,6 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishimule/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rishimule/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/rishimule/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishimule/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -108,6 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishimule/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -177,6 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishimule/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
