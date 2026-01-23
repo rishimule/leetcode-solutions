@@ -102,6 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishimule/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/rishimule/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/rishimule/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishimule/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -182,6 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0007-reverse-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rishimule/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rishimule/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -285,4 +287,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishimule/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rishimule/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
