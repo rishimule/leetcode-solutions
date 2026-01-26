@@ -152,6 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishimule/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -197,6 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0004-median-of-two-sorted-arrays](https://github.com/rishimule/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
