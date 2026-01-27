@@ -126,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -133,6 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -265,6 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -274,6 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Queue
 |  |
