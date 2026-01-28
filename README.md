@@ -152,6 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/rishimule/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishimule/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishimule/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
@@ -211,6 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rishimule/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
@@ -315,4 +317,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
