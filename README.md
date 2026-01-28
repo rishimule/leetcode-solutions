@@ -137,6 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -165,6 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishimule/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
@@ -260,6 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -332,4 +336,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
