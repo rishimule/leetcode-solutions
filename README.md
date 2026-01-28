@@ -95,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/rishimule/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/rishimule/leetcode-solutions/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/rishimule/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishimule/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -121,6 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -223,6 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rishimule/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
