@@ -157,6 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishimule/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rishimule/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/rishimule/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/rishimule/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -338,6 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rishimule/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
 ## Union-Find
 |  |
