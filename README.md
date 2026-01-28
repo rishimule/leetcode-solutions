@@ -147,6 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/rishimule/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -170,6 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishimule/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/rishimule/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -264,6 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/rishimule/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
