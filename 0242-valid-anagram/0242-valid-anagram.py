@@ -1,25 +1,25 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(s) != len(t):
-            return False
+        return sorted(s) == sorted(t)
+        # # nUll check
+        # if len(s) != len(t):
+        #     return False
+
+        # # count = {}
         
-        h = {}
-        for l in s:
-            if l in h:
-                h[l] += 1
-            else:
-                h[l] = 1
+        # # for i in range(len(s)):
+        # #     if s[i] not in count:
+        # #         count[s[i]] = 0
+        # #     count[s[i]] += 1
         
-        for l in t:
-            if l in h:
-                if h[l] > 0:
-                    h[l] -= 1
-                else:
-                    return False
-            else:
-                return False
+        # count_s = Counter(s)
+        # count_t = Counter(t)
+
+        # diff= 0
+        # for char in set (s + t):
+        #     diff += abs(count_s[char] - count_t[char])
         
-        if sum(h.values()) == 0:
-            return True
-        else:
-            return False
+        # return True if not diff else False
+
+
+        
