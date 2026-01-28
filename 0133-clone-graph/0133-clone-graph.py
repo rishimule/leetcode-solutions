@@ -9,30 +9,30 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        if node == None:
+        
+        if not node:
             return None
+        
+        nodeDict = {} # ----{node.val : Node}
 
-        nodeDict = {}
-        parsednodeset = set()
-
-        def parsenode(node):
-            newNode = Node(node.val, [])
-            nodeDict[node.val] = newNode
-            parsednodeset.add(node.val)
+        def parseNode(node):
+            newNode = Node(node.val)
+            nodeDict[newNode.val] = newNode
 
             for n in node.neighbors:
-                if n.val not in parsednodeset:
-                    neighnode = parsenode(n)
-                    newNode.neighbors.append(neighnode)
-                else:
+                if n.val not in nodeDict: # parse node before adding
+                    neighNode = parseNode(n)
+                    newNode.neighbors.append(neighNode)
+                else: # Directly add node
                     newNode.neighbors.append(nodeDict[n.val])
-            
             return newNode
-
-        return parsenode(node)
-
-
-
-
-    
         
+        return parseNode(node)
+'''
+{1, 2, 3, 4}
+
+[1, [2, 4]]
+[2, [1, 3]]
+[3, [2, 4]]
+[4, [1, 3]]
+'''
