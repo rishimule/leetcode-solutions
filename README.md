@@ -121,6 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
@@ -200,6 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0021-merge-two-sorted-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishimule/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -252,6 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rishimule/leetcode-solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -272,6 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishimule/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
