@@ -176,6 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/rishimule/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rishimule/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -204,6 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishimule/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -247,6 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0394-decode-string](https://github.com/rishimule/leetcode-solutions/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishimule/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rishimule/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -257,6 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rishimule/leetcode-solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -277,6 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0146-lru-cache](https://github.com/rishimule/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishimule/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
@@ -352,4 +357,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
