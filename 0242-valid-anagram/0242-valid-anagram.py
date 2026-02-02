@@ -1,6 +1,44 @@
+from collections import Counter, defaultdict
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return Counter(s) == Counter(t)
+        # return sorted(s) == sorted(t) # Time: O(nLogn) ---- Space: O(1)
+
+        # return Counter(s) == Counter(t) # Time: O(n) ---- Space: O(n)
+
+        if len(s) != len(t):
+            return False
+
+        count_s = defaultdict(int)
+        count_t = defaultdict(int)
+
+        for i in range(len(s)):
+            count_s[s[i]] += 1
+            count_t[t[i]] += 1
+        
+        return count_s == count_t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # return Counter(s) == Counter(t)
         
         # return sorted(s) == sorted(t)
         # # nUll check
