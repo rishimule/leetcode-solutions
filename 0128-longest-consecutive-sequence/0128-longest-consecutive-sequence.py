@@ -22,6 +22,5 @@ class Solution:
                     count += 1
 
                 max_len = max(max_len, count)
-                count = 0
             
         return max_len
