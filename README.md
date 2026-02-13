@@ -118,6 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishimule/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/rishimule/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishimule/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -166,6 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishimule/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rishimule/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rishimule/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -362,6 +364,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishimule/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Data Stream
 |  |
