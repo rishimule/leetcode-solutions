@@ -139,6 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0133-clone-graph](https://github.com/rishimule/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rishimule/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -310,10 +311,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +325,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
