@@ -1,32 +1,29 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if len(s) == 0:
-            return 0
-        
-        if len(s) == 1:
-            return 1
-        
-        lp = 0
-        rp = 0
-        maxlen = 1
-        
+        #edge cases
+        if len(s) < 2:
+            return len(s)
 
-        while True:
-            # if lp == len(s) - 1 and lp==rp:
-            #     return maxlen
+        res = 1
+        l = 0
+        r = 1
+        
+        bucket = set(s[0])
 
-            if rp < len(s)-1:
-                rp += 1
+        while r < len(s):
+            
+            if s[r] not in bucket:
+                bucket.add(s[r])
             else:
-                return maxlen
+                #update l until we remove the duplicate
+                while s[l] != s[r]:
+                    bucket.remove(s[l])
+                    l += 1
+                l += 1
             
-            if s[rp] in s[lp:rp]:
-                while s[lp] != s[rp]:
-                    lp += 1
-                lp += 1
-            
-            maxlen = max(maxlen, rp-lp+1)
-
-
+            res = max(res, r-l+1)
+            r += 1
+        
+        return res
 
         
