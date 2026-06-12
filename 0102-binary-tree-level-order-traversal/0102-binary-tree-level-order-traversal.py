@@ -4,67 +4,40 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
+
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-
-        res = []
         if not root:
-            return res
-
-        q = deque([root])
-
-        while q:
-            curr = []
-            for i in range(len(q)):
-                node = q.popleft()
-                curr.append(node.val)
-
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-            
-            res.append(curr)
-        
-        return res
-
-
-
-
-
-
-
-
-
-
-
-
-        if root is None:
             return []
         
-        res = [] # [[3] [9, 20] [15, 7]]
+        res = []
+        currdepth = 0
 
-        q = deque() # [ ]    (7, 2)
+        q = deque()
         q.append((root, 0))
-        curr_level = -1 # 2
+
+        curr = []
 
         while q:
-            # pop off and add its children
-            node, level = q.popleft()
-
-            if node.left:
-                q.append((node.left, level+1))
-            if node.right:
-                q.append((node.right, level+1))
-            
-            if  level > curr_level:
-                res.append([node.val])
-                curr_level += 1
+            node, depth = q.popleft()
+            if depth > currdepth:
+                res.append(curr)
+                currdepth = depth
+                curr = [node.val]
             else:
-                res[-1].append(node.val)
-    
+                curr.append(node.val)
+            
+            if node.left:
+                q.append((node.left, depth+1)) 
+            if node.right:
+                q.append((node.right, depth+1)) 
+        
+        res.append(curr)
+        
         return res
             
 
 
+        
         
