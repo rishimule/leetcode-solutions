@@ -8,58 +8,54 @@ class Node:
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.cap = capacity
-        self.cache = {} # map key to nodes
+        self.cache = {}
+        self.capacity = capacity
+        self.left = Node(0, 0)
+        self.right = Node(0, 0)
 
-        # Left: LRU     RIGHT: MOST RECENTLY USED
-        self.left, self.right = Node(0, 0), Node(0, 0)
-        self.left.next = self.right
-        self.right.prev = self.left
+        self.left.next, self.right.prev = self.right, self. left
 
-    # remove node from Double linked list
-    def remove(self, node):
-        prev = node.prev
-        next = node.next
-        if prev:
-            prev.next = next
-        if next:
-            next.prev = prev
 
+    def remove(self, node) -> None:
+        # remove node from DLL
+        node.prev.next, node.next.prev = node.next, node.prev
     
-    # insert at right most
-    def insert(self, node):
-        prev = self.right.prev
-        next = self.right
-        if prev:
-            node.prev = prev
-            prev.next = node
-        if next:
-            node.next = next
-            next.prev = node
+    def insert(self, node) -> None:
+        # insert at the rightmost end
 
+        self.right.prev.next = node
+        node.prev = self.right.prev
 
-
+        self.right.prev = node
+        node.next = self.right
+    
     def get(self, key: int) -> int:
-        if key in self.cache:
-            self.remove(self.cache[key])
-            self.insert(self.cache[key])
-            return self.cache[key].val
-        return -1
+        # make it the most recent
+        if key not in self.cache:
+            return -1
+        self.remove(self.cache[key]) # remove
+        self.insert(self.cache[key]) # insert
+
+        return self.cache[key].val
         
 
     def put(self, key: int, value: int) -> None:
+        # create node, add it to DLL, update cache (add, optionally remove the oldest)
         if key in self.cache:
-            self.remove(self.cache[key])
-        node = Node(key, value)
-        self.cache[key] = node
-        self.insert(self.cache[key])
+            self.cache[key].val = value
+            self.remove(self.cache[key]) # remove
+            self.insert(self.cache[key]) # insert
 
-        if len(self.cache) > self.cap:
-            # remove LRU node from left
-            while len(self.cache) > self.cap:
-                lru = self.left.next
-                self.remove(lru)
-                del self.cache[lru.key]
+        else:    
+            self.cache[key] = Node(key, value)
+            self.insert(self.cache[key])
+
+            if len(self.cache) > self.capacity:
+                # delete the oldest
+                key = self.left.next.key
+                self.remove(self.left.next) # del form DLL
+
+                del self.cache[key] # del from cache map
 
         
 
