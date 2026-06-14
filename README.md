@@ -196,6 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0994-rotting-oranges](https://github.com/rishimule/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1472-design-browser-history](https://github.com/rishimule/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1710-maximum-units-on-a-truck](https://github.com/rishimule/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rishimule/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -206,6 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0011-container-with-most-water](https://github.com/rishimule/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1710-maximum-units-on-a-truck](https://github.com/rishimule/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Trie
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rishimule/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1710-maximum-units-on-a-truck](https://github.com/rishimule/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
 |  |
