@@ -1,34 +1,33 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         n = len(isConnected)
+        neigh = {i:[] for i in range(n)}
 
-        neig = defaultdict(list)
+        for i in range(n):
+            for j in range(n):
+                if isConnected[i][j] == 1:
+                    neigh[i].append(j)
 
-        for r in range(n):
-            for c in range(n):
-                if isConnected[r][c] == 1:
-                    neig[r].append(c)
+        numProvince = 0
+        visited= set()
 
-        visited = set()
-        island = 0
-
-        def bfs(i):
-            visited.add(i)
+        def bfs(city):
+            visited.add(city)
             q = deque()
-            q.append(i)
-
+            q.append(city)
+            
             while q:
-                i = q.popleft()
-                for j in neig[i]:
-                    if j not in visited:
-                        visited.add(j)
-                        q.append(j)
-
+                c = q.popleft()
+                for i in neigh[c]:
+                    if i not in visited:
+                        q.append(i)
+                        visited.add(i)
+                
         for i in range(n):
             if i not in visited:
                 bfs(i)
-                island += 1
+                numProvince += 1
         
-        return island
+        return numProvince
 
-        
+
