@@ -88,6 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0160-intersection-of-two-linked-lists](https://github.com/rishimule/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/rishimule/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -186,6 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0347-top-k-frequent-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishimule/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -241,6 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishimule/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/rishimule/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -257,6 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/rishimule/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1029-two-city-scheduling](https://github.com/rishimule/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishimule/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
@@ -305,6 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishimule/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -353,6 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishimule/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
