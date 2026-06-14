@@ -100,6 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/rishimule/leetcode-solutions/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/rishimule/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1041-robot-bounded-in-circle](https://github.com/rishimule/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishimule/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rishimule/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -235,6 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0062-unique-paths](https://github.com/rishimule/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishimule/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1041-robot-bounded-in-circle](https://github.com/rishimule/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
@@ -352,6 +354,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Simulation
 |  |
 | ------- |
+| [1041-robot-bounded-in-circle](https://github.com/rishimule/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rishimule/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rishimule/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
