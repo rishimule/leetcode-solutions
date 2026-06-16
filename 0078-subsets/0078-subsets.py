@@ -1,21 +1,25 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
+
         res = []
-        
-        subset = []
-        def dfs(i):
+
+        cur = []
+
+        def dfs(i, cur):
             if i >= len(nums):
-                res.append(subset.copy())
+                res.append(cur.copy())
                 return
             
-            # Decision to include nums[i]
-            subset.append(nums[i])
-            dfs(i + 1)
+            cur.append(nums[i])
+            dfs(i+1, cur)
+            cur.pop()
 
-            # Decision NOT to include nums[i]
-            subset.pop()
-            dfs(i + 1)
-        
-        dfs(0)
+            dfs(i+1, cur)
+
+        dfs(0, [])
 
         return res
+            
+
+        
