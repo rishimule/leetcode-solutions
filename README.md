@@ -95,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishimule/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rishimule/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/rishimule/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/rishimule/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishimule/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rishimule/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishimule/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rishimule/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -398,6 +400,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishimule/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rishimule/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0090-subsets-ii) |
