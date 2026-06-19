@@ -97,6 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/rishimule/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/rishimule/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/rishimule/leetcode-solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/rishimule/leetcode-solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rishimule/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/rishimule/leetcode-solutions/tree/master/0394-decode-string) |
@@ -138,6 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rishimule/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishimule/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -180,6 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0056-merge-intervals](https://github.com/rishimule/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishimule/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishimule/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rishimule/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -307,6 +310,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/rishimule/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rishimule/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/rishimule/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -403,6 +407,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0022-generate-parentheses](https://github.com/rishimule/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rishimule/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rishimule/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishimule/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishimule/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Union-Find
 |  |
