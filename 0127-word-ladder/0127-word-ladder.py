@@ -30,9 +30,11 @@ class Solution:
             if word == endWord:
                 return t
             visit.add(word)
-            for neiWord in neighWords(word):
-                if neiWord not in visit:
-                    q.append((neiWord, t+1))
+            for j in range(len(word)):
+                pattern = word[:j] + "*" + word[j+1:]
+                for neiWord in nei[pattern]:
+                    if neiWord not in visit:
+                        q.append((neiWord, t+1))
         
         return 0
 
