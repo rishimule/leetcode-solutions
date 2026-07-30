@@ -201,6 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishimule/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/rishimule/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rishimule/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rishimule/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rishimule/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishimule/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rishimule/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -399,6 +400,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rishimule/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rishimule/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Divide and Conquer
 |  |
