@@ -124,6 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishimule/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishimule/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rishimule/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/rishimule/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -179,6 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishimule/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishimule/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rishimule/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishimule/leetcode-solutions/tree/master/0015-3sum) |
