@@ -1,41 +1,44 @@
 class MinStack:
 
     def __init__(self):
-        # keep track of idx of the minimum in a stack
-        # when a new minimum is added to the stack, map the idx of the previous
-        # min to its idx (hint: since its a stack, the prev min idx 
-        # will always be smaller)
-        self.stack = []
-        self.curMin = -1
-        self.prevMin = {}
-
-    def push(self, val: int) -> None:
-        self.stack.append(val)
-        if not self.stack or val <= self.stack[self.curMin]:
-            self.prevMin[len(self.stack)-1] = self.curMin
-            self.curMin = len(self.stack)-1
+        self.stack  = []
+        self.minIdx = -1
+        self.prevMinIdx = {}
         
+
+    def push(self, value: int) -> None:
+        if self.minIdx < 0 or value <= self.stack[self.minIdx]:
+                self.prevMinIdx[len(self.stack)] = self.minIdx
+                self.minIdx = len(self.stack)
+        
+        self.stack.append(value)
+        
+
     def pop(self) -> None:
-        if self.stack: 
-            #update min
-            if self.curMin == len(self.stack)-1:
-                self.curMin = self.prevMin[self.curMin]
-                del self.prevMin[len(self.stack)-1]
+        if self.stack:
+            if self.minIdx == len(self.stack)-1:
+                self.minIdx = self.prevMinIdx[self.minIdx]
+                del self.prevMinIdx[len(self.stack)-1]
             self.stack.pop()
             
         
+
     def top(self) -> int:
-        return self.stack[-1] if self.stack else None
+        if self.stack:
+            return self.stack[-1]
+        return None
         
 
     def getMin(self) -> int:
-        return self.stack[self.curMin] if self.stack else None
+        if self.stack:
+            return self.stack[self.minIdx]
+        return None
         
 
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
-# obj.push(val)
+# obj.push(value)
 # obj.pop()
 # param_3 = obj.top()
 # param_4 = obj.getMin()
